@@ -1,10 +1,11 @@
 # Trustpilot Invitation API Client
 
-This is a fork of https://github.com/ITspirit/TrustpilotInvitationApi 
 [![Latest Stable Version](https://poser.pugx.org/itspirit/trustpilot-invitation-api/v/stable)](https://packagist.org/packages/itspirit/trustpilot-invitation-api)
 [![Total Downloads](https://poser.pugx.org/itspirit/trustpilot-invitation-api/downloads)](https://packagist.org/packages/itspirit/trustpilot-invitation-api)
 [![License](https://poser.pugx.org/itspirit/trustpilot-invitation-api/license)](https://packagist.org/packages/itspirit/trustpilot-invitation-api)
 [![composer.lock available](https://poser.pugx.org/phpunit/phpunit/composerlock)](https://packagist.org/packages/phpunit/phpunit)
+
+This is a fork of https://github.com/ITspirit/TrustpilotInvitationApi 
 
 A PHP library for accessing the [Trustpilot Invitation API](https://developers.trustpilot.com/invitation-api).
 
