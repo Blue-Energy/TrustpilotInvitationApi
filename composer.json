@@ -1,5 +1,5 @@
 {
-    "name": "Blue-Energy/trustpilot-invitation-api",
+    "name": "blue-energy/trustpilot-invitation-api",
     "description": "A PHP library for accessing the Trustpilot Invitation API and fetching recieved Product reviews",
     "license": "MIT",
     "type": "project",
